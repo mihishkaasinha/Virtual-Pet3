@@ -150,7 +150,7 @@ function mainGame() {
 function keyPressed() {
   if (check === 1) {
     if (keyCode === 67) {
-      window.location.href = "https://github.com/sagarsaurabhssnl/PRO-C-37";
+      window.location.href = "https://github.com/mihishkaasinha/Virtual-Pet3";
     }
     if (keyCode === 82) {
       window.location.reload(false);
@@ -254,7 +254,7 @@ function keyReleased() {
       undoState = "sit";
     }
   }
-}
+;l
 
 function foodTime() {
   reffoodtime.config();
